@@ -1,0 +1,36 @@
+# Secrets and machine-local configuration
+.env
+.env.*
+!.env.example
+backend/.env
+backend/.env.*
+!backend/.env.example
+
+# Python environment and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.log
+backend/.pip-tmp/
+
+# Node dependencies and generated frontend output
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# User uploads, local databases, datasets, and temporary exports
+backend/uploads/
+backend/data/*
+!backend/data/.gitkeep
+*.sqlite3
+*.sqlite3-shm
+*.sqlite3-wal
+*.csv
+
+# Large local question-generation weights and duplicate training artifacts
+backend/models/local_qg/
+backend/models/ednet_kt2/
+backend/models/ednet_kt2_candidate/
+backend/models/ednet_kt23_candidate/
+

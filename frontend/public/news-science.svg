@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 240" role="img" aria-label="Science and chemistry illustration">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#064e3b"/><stop offset="1" stop-color="#0e7490"/></linearGradient><linearGradient id="liquid" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#34d399"/></linearGradient></defs>
+  <rect width="640" height="240" rx="22" fill="url(#bg)"/><circle cx="545" cy="44" r="82" fill="#99f6e4" opacity=".1"/><circle cx="100" cy="225" r="110" fill="#2dd4bf" opacity=".12"/>
+  <g fill="none" stroke="#ccfbf1" stroke-width="5" stroke-linecap="round"><path d="M278 55v42l-45 72a18 18 0 0 0 15 27h100a18 18 0 0 0 15-27l-45-72V55"/><path d="M265 135h78"/></g><path d="m254 158 24-38h52l24 38a15 15 0 0 1-13 23h-74a15 15 0 0 1-13-23" fill="url(#liquid)" opacity=".85"/>
+  <g fill="#a7f3d0"><circle cx="183" cy="84" r="10"/><circle cx="125" cy="126" r="7"/><circle cx="460" cy="83" r="9"/><circle cx="510" cy="139" r="6"/></g><g stroke="#a7f3d0" stroke-width="3" opacity=".8"><path d="m183 84 53 12-30 44-81-14 58-42ZM460 83l-32 54 82 2-50-56Z"/></g>
+  <g fill="#fff" opacity=".85"><path d="m407 40 5 14 14 5-14 5-5 14-5-14-14-5 14-5zM175 178l4 10 10 4-10 4-4 10-4-10-10-4 10-4z"/></g>
+</svg>

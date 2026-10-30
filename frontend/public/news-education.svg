@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 240" role="img" aria-label="Books and learning illustration">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1e3a8a"/><stop offset="1" stop-color="#0891b2"/></linearGradient><linearGradient id="book" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fef3c7"/><stop offset="1" stop-color="#fbbf24"/></linearGradient></defs>
+  <rect width="640" height="240" rx="22" fill="url(#bg)"/><circle cx="535" cy="18" r="110" fill="#bae6fd" opacity=".12"/><path d="M0 196q160-62 320 0t320 0v44H0Z" fill="#0f172a" opacity=".22"/>
+  <path d="M180 79q52-25 105 0v100q-53-25-105 0z" fill="#fff" stroke="#dbeafe" stroke-width="4"/><path d="M285 79q53-25 105 0v100q-52-25-105 0z" fill="#eff6ff" stroke="#dbeafe" stroke-width="4"/><path d="M285 83v97" stroke="#93c5fd" stroke-width="4"/>
+  <g stroke="#93c5fd" stroke-width="4" stroke-linecap="round"><path d="M201 106q33-12 63 0M201 128q33-12 63 0M201 150q33-12 63 0M306 106q33-12 63 0M306 128q33-12 63 0M306 150q33-12 63 0"/></g>
+  <path d="m453 58 7 20 20 7-20 7-7 20-7-20-20-7 20-7zM130 70l5 14 14 5-14 5-5 14-5-14-14-5 14-5z" fill="url(#book)"/><circle cx="480" cy="157" r="6" fill="#bfdbfe"/><circle cx="153" cy="154" r="5" fill="#bfdbfe"/>
+</svg>

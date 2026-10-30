@@ -1,0 +1,11 @@
+data/ednet/
+data/offline_learning.sqlite3
+data/offline_learning.sqlite3-shm
+data/offline_learning.sqlite3-wal
+models/ednet_kt2/
+models/ednet_kt2_candidate/
+models/local_qg/
+__pycache__/
+.env
+.pip-tmp/
+.env
